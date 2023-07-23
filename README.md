@@ -1,4 +1,3 @@
-![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 <h1 align="center">Hi 👋, I'm Lovepreet</h1>
 <h3 align="center">A passionate flutter developer from India</h3>
 <div class="tenor-gif-embed" data-postid="24625099" data-share-method="host" data-aspect-ratio="2" data-width="100%"><a href="https://tenor.com/view/coding-gif-24625099"></div>
