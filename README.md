@@ -1,8 +1,9 @@
-![iphone-app](https://github.com/love9897/love9897/assets/43597053/ed2e244c-84a7-4eb4-b4cd-c233abc655ad)
+<img align ="right" alt="Coding" height="400" width="1000" src="https://www.signitysolutions.com/hubfs/Imported_Blog_Media/Flutter-app-development-signity-solutions-1024x512.png"/>
+
 <h1 align="center">Hi 👋, I'm Lovepreet</h1>
 <h3 align="center">A passionate flutter developer from India</h3>
 <div class="tenor-gif-embed" data-postid="24625099" data-share-method="host" data-aspect-ratio="2" data-width="100%"><a href="https://tenor.com/view/coding-gif-24625099"></div>
-<img align ="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTM5bjVyaWVwOHM2cG1ibXp4ZTZteWw1d2doYmkzMWV4OTBvbHF0NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/O4RtbUwCEWHisTgqpN/giphy.gif"/>
+<img align ="right" alt="Coding" width="400" src="https://github-production-user-asset-6210df.s3.amazonaws.com/43597053/255397965-1ec4c21b-28e1-4faa-993b-3c08b86dc950.gif"/>
 
 - 🌱 I’m currently learning **Flutter, Dart**
 
